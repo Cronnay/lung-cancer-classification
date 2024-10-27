@@ -20,3 +20,8 @@ I am a bit sceptical about this data, since I couldn't find any information abou
 
 ### Model
 Classification is probably the best solution based on the data and makes most sense, since the goal is to predict whether a person has lung cancer or not.
+
+## Summary
+The purpose of this project isn't to be 100% accurate and is a tool instead of screening. My hopes are that this could be accurate enough, that it will encourage people who might be sick, to visit a doctor and get a screening.    
+There are too many people dying per year because of late diagnosis, I am hoping this could lower the threshold.
+
